@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name": "Bridgett Valet",
+    "occupation": "Full-Stack Developer",
+    "description": "Problem solving is one of my favorite pastimes, and there is no shortage of that in coding! Implementing code-based solutions through a variety of tools is what I do best. I have many years of experience as a front-end UX designer as well, and communication, autonomy, learning, teamwork and relationships are a few of my core values.",
+    "image": "profilepic.jpg",
+    "bio": "As a graphic designer for the past twelve years,  ",
+    "contactmessage": "Want to work together? Let's get in touch.",
+    "email": "bridgettvalet@gmail.com",
+    "phone": "931-256-0689",
+    "address": {
+      "street": "201 Helen Place",
+      "city": "Sparta",
+      "state": "Tennessee",
+      "zip": "38583"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tenncreekbridges",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/tenncreekbridge",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tenncreekbridges",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tenncreekbridges",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tenncreekbridges",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Communication is my core. ",
+    "education": [
+      {
+        "school": "Vanderbilt University Boot Camps",
+        "degree": "Full Stack Web Development",
+        "graduated": "May 2022",
+        "description": "Intensive six-month crash course on HTML, CSS, GitHub, GitLab, JavaScript, Bootstrap, Node.js, Web APIs, Third-Party APIs, Server-Side APIs, Object-Oriented Programing, Express.js, SQL, Object Relational Mapping, Model-View-Controllers, NoSQL, React, MongoDB, Insomnia, Jest, State & Heroku."
+      },
+      {
+        "school": "Middle Tennessee State University",
+        "degree": "BS Mass Communication, Concentration: Digital Media. Minor: Entrepreneurship. GPA: 3.9",
+        "graduated": "May 2009",
+        "description": "Interdisciplinary program focusing on development of interactive and new media, including a strong foundation in the rhetorical tradition of content development and visual communication. Adobe Photoshop, Illustrator, InDesign, web design (HTML, CSS & UX focus), journalism and digital video production were all critical components of this major."
+      }
+    ],
+    "work": [
+      {
+        "company": "Jackson Kayak",
+        "title": "Creative Director",
+        "years": "April 2014 - Present",
+        "description": "All of the things. Where to even begin.."
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "65%"
+      },
+      {
+        "name": "Express",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      },
+      {
+        "name": "Insomnia",
+        "level": "85%"
+      },
+      {
+        "name": "Photoshop",
+        "level": "95%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "85%"
+      },
+      {
+        "name": "Google Docs",
+        "level": "95%"
+      },
+      {
+        "name": "Asana",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Can I Haz Yod'ad Jokes",
+        "category": "Group Project featuring HTML, CSS, JavaScript, jQuery, Bootstrap, FontAwesome & Google Fonts, featuring random dad jokes pulled from an API and fed into a Yoda translator API.",
+        "image": "yodad.jpg",
+        "url": "https://tenncreekbridges.github.io/API-Mash-Project/"
+      },
+      {
+        "title": "Horrorscopes",
+        "category": "Project featuring HTML, CSS, Bootstrap, FlexBox, BCrypt, Sequelize, Dotenv, Express, Handlebars, Express-Session & MYSQL2. Non-traditional twist on a traditional horoscope reading.",
+        "image": "horrorscopes.jpg",
+        "url": "https://horrorscopes-project.herokuapp.com/"
+      },
+      {
+        "title": "Code Quiz",
+        "category": "Simple, JavaScript-driven code quiz with timer and high scores. Features Bootstrap, jQuery, HTML, CSS & JavaScript.",
+        "image": "js-code-quiz.jpg",
+        "url": "https://tenncreekbridges.github.io/JavaScript-Code-Quiz/"
+      },
+      {
+        "title": "Employee Tracker",
+        "category": "This simple CLI allows the user to manage employees by means of JavaScript, Express, Requirer, MYSQL2 & Console.table. ",
+        "image": "employee-tracker.jpg",
+        "url": "https://www.screencast.com/t/qgT2ooxQg"
+      },
+      {
+        "title": "Any Social Network",
+        "category": "​This backend can be used for social media startups and features a NOSQL database, Express.js for routing, MongoDB database, and Mongoose ODM to handle large amounts of unstructured data.",
+        "image": "social-network.jpg",
+        "url": "https://github.com/TennCreekBridges/18-NoSQL-Social-Network"
+      },
+      {
+        "title": "Workday Scheduler",
+        "category": "Simple daily planner that allows the user to add events to a planner. Features HTML, CSS, JavaScript, Bootstrap, jQuery & Moment.",
+        "image": "workday-scheduler.jpg",
+        "url": "https://tenncreekbridges.github.io/Work-Day-Planner/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Fizz bang, whizz bang, you name it. I believe this woman lives and breathes algorithms. Haven't been able to put a problem in front of her that she hasn't been able to solve. Solid addition to any team.",
+        "user": "Ryan Martin, Web Developer"
+      },
+      {
+        "text": "That Bridgett Valet must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired her yet. Hey you, you should hire this chick, she may be fresh out of University and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
+        "user": "Ken Blake, PhD Media & Communications"
+      }
+    ]
+  }
+}
