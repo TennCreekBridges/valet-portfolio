@@ -156,7 +156,7 @@
         "title": "Horrorscopes",
         "category": "Project featuring HTML, CSS, Bootstrap, FlexBox, BCrypt, Sequelize, Dotenv, Express, Handlebars, Express-Session & MYSQL2. Non-traditional twist on a traditional horoscope reading.",
         "image": "horrorscopes.jpg",
-        "url": "https://horrorscopes-project.herokuapp.com/"
+        "url": "https://horrorscopes2.herokuapp.com/"
       },
       {
         "title": "Code Quiz",
