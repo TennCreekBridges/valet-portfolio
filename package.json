@@ -2,7 +2,7 @@
   "name": "valet-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://valet-develop.herokuapp.com/",
+  "homepage": "https://tenncreekbridges.github.io/20-Reactio-Portfolioo/public",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
