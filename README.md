@@ -4,7 +4,7 @@
 
 ## Description
 
-This React portfolio is a single-page application which showcases past project work, past work experience and allows the user to download a copy of my resume.
+This React portfolio is a single-page application which showcases past project work, past work experience and allows the potential employer to download a copy of my resume.
 ​
 
 ## Table of Contents
