@@ -14,6 +14,7 @@ This React portfolio is a single-page application which showcases past project w
 - [Technologies](#technologies)
 - [Packages](#packages)
 - [Screenshot](#screenshots)
+- [Deployed Portfolio](#deployed)
 - [Sources](#sources)
 
 ## License
@@ -46,6 +47,12 @@ This app was created using React, jQuery, HTML, CSS, & JavaScript.
 ## Screenshot
 
 <img width="1480" alt="Screen Shot 2022-05-12 at 8 14 26 PM" src="https://user-images.githubusercontent.com/91682561/168192116-3e6fb46d-1a80-4c5b-9df8-ae6d4c05ba81.png">
+
+<a name="deployed"></a>
+
+## Deployed Portfolio
+
+You can view the deployed portfolio here: https://valet-portfolio.herokuapp.com/
 
 <a name ="sources"></a>
 
