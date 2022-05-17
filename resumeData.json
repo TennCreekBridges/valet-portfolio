@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name": "Bridgett Valet",
+    "occupation": "Full-Stack Developer",
+    "description": "I currently work for Jackson Kayak as Senior Graphic Design Lead. Having known just enough code to get myself in trouble, I decided it was time to take my knack for coding and turn it into a marketable skill set that pairs perfectly with my graphic design abilities",
+    "image": "profilepic.jpg",
+    "bio": "Problem solving is one of my favorite pastimes, and there is no shortage of that in coding! Implementing code-based solutions through a variety of tools is what I love to do. I have many years of experience as a front-end UX designer as well; communication, autonomy, learning, teamwork and relationships are a few of my core values.",
+    "contactmessage": "Want to work together? Let's get in touch. NOTE: this form is not functional at the moment. Please send your email to me directly at bridgettvalet@gmail.com.",
+    "email": "bridgettvalet@gmail.com",
+    "phone": "931-256-0689",
+    "address": {
+      "street": "201 Helen Place",
+      "city": "Sparta",
+      "state": "Tennessee",
+      "zip": "38583"
+    },
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tenncreekbridges",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/tenncreekbridge",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tenncreekbridges",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tenncreekbridges",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tenncreekbridges",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Communication is my core, from written words to painting pictures with pixels, to developing apps to enhance the way we communicate and interact with one another. Always on the lookout for something new to learn!",
+    "education": [
+      {
+        "school": "Vanderbilt University Boot Camps",
+        "degree": "Full Stack Web Development",
+        "graduated": "May 2022",
+        "description": "Intensive six-month crash course on HTML, CSS, GitHub, GitLab, JavaScript, Bootstrap, Node.js, Web APIs, Third-Party APIs, Server-Side APIs, Object-Oriented Programing, Express.js, SQL, Object Relational Mapping, Model-View-Controllers, NoSQL, React, MongoDB, Insomnia, Jest, State & Heroku."
+      },
+      {
+        "school": "Middle Tennessee State University",
+        "degree": "BS Mass Communication, Concentration: Digital Media. Minor: Entrepreneurship. GPA: 3.9",
+        "graduated": "May 2009",
+        "description": "Interdisciplinary program focusing on development of interactive and new media, including a strong foundation in the rhetorical tradition of content development and visual communication. Adobe Photoshop, Illustrator, InDesign, web design (HTML, CSS & UX focus), journalism and digital video production were all critical components of this major."
+      }
+    ],
+    "work": [
+      {
+        "company": "Jackson Kayak",
+        "title": "Senior Graphic Design Lead",
+        "years": "April 2014 - Present",
+        "description": "Initially, I was brought into the Jackson Kayak marketing team for a few small projects: web banners promoting the latest and greatest in kayaks, graphics for promotional giveaways on social media and the like. In the years that I've been with the company, my role has evolved significantly! I am now responsible for managing our BigCommerce web store account, which includes generating product descriptions, entering product specs, photographing and integrating product hot spots from Wordpress. I develop and  publish web mockups and create company-wide style standards. I also manage our Dealer Portal, which provides critical information for our network of 150+ global dealers. I design product sell sheets for our sales staff to use at shows, and have experience with large-format printing in designing our trade show booth setups. I develop new boat logos using Illustrator, develop instruction manuals for our products in InDesign and point-of-purchase materials for distribution to our dealer network, including neon signs, dealer binders, tin tacker signs, and banners. I develop our soft goods, from t-shirts to hats and create print ads for kayaking publications. Our marketing team collaborates with Asana, Zoom, Slack and Skype, and we are constantly generating and implementing new marketing campaigns."
+      },
+      {
+        "company": "FASTSIGNS",
+        "title": "Graphic Design / Customer Service",
+        "years": "August 2012 - April 2014",
+        "description": "Worked to pair people and product. Used Adobe's Creative Suite to create signs, banners, car magnets, and ad specialty items (pens, koozies, mugs). Consulted with customers on site surveys and ran end-of-day reports for the owner."
+      },
+      {
+        "company": "The WORX Group",
+        "title": "Manager",
+        "years": "August 2009 - July 2012",
+        "description": "Managed a team including graphic designers, screen printers and embroiderers. Worked with customers to ensure the best outcome for their apparel-decoration needs. Ordered blank garments, scheduled production and managed expenses with Quickbooks. Ran all end-of-day reports."
+      },
+      {
+        "company": "Middle Tennessee State University",
+        "title": "Research Assistant: MTSU Poll Field Director",
+        "years": "January 2007 - March 2009",
+        "description": "Supervised and coordinated polling and AMSI research. Setup and breakdown of 26 polling stations nightly for the duration of the bi-annual MTSU Poll. Taught polling procedure nightly, ensuring active participation by pollsters."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "65%"
+      },
+      {
+        "name": "Express",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      },
+      {
+        "name": "Insomnia",
+        "level": "85%"
+      },
+      {
+        "name": "Photoshop",
+        "level": "95%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "85%"
+      },
+      {
+        "name": "Google Docs",
+        "level": "95%"
+      },
+      {
+        "name": "Microsoft Office Suite",
+        "level": "80%"
+      },
+      {
+        "name": "Asana",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Can I Haz Yod'ad Jokes",
+        "category": "Group Project featuring HTML, CSS, JavaScript, jQuery, Bootstrap, FontAwesome & Google Fonts, featuring random dad jokes pulled from an API and fed into a Yoda translator API.",
+        "image": "yodad.jpg",
+        "url": "https://tenncreekbridges.github.io/API-Mash-Project/"
+      },
+      {
+        "title": "Horrorscopes",
+        "category": "Project featuring HTML, CSS, Bootstrap, FlexBox, BCrypt, Sequelize, Dotenv, Express, Handlebars, Express-Session & MYSQL2. Non-traditional twist on a traditional horoscope reading.",
+        "image": "horrorscopes.jpg",
+        "url": "https://horrorscopes2.herokuapp.com/"
+      },
+      {
+        "title": "Code Quiz",
+        "category": "Simple, JavaScript-driven code quiz with timer and high scores. Features Bootstrap, jQuery, HTML, CSS & JavaScript.",
+        "image": "js-code-quiz.jpg",
+        "url": "https://tenncreekbridges.github.io/JavaScript-Code-Quiz/"
+      },
+      {
+        "title": "Employee Tracker",
+        "category": "This simple CLI allows the user to manage employees by means of JavaScript, Express, Requirer, MYSQL2 & Console.table. ",
+        "image": "employee-tracker.jpg",
+        "url": "https://www.screencast.com/t/qgT2ooxQg"
+      },
+      {
+        "title": "Any Social Network",
+        "category": "​This backend can be used for social media startups and features a NOSQL database, Express.js for routing, MongoDB database, and Mongoose ODM to handle large amounts of unstructured data.",
+        "image": "social-network.jpg",
+        "url": "https://github.com/TennCreekBridges/18-NoSQL-Social-Network"
+      },
+      {
+        "title": "Workday Scheduler",
+        "category": "Simple daily planner that allows the user to add events to a planner. Features HTML, CSS, JavaScript, Bootstrap, jQuery & Moment.",
+        "image": "workday-scheduler.jpg",
+        "url": "https://tenncreekbridges.github.io/Work-Day-Planner/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Bridgett stood out for two reasons during the journalism course she took from me at Middle Tennessee State University during the fall of 2007. She was by far the smartest student in the class. She also was the only one who consistently arrived on Rollerblades. Impressed, I recruited her as the call center manager for a statewide public opinion poll I was running, a job she did flawlessly until she graduated in 2009. During my time as her professor and then supervisor, I learned that Bridgett has not only the brains to handle her responsibilities but also the creativity to handle them in a way that will leave you a teeny bit envious of how much fun she is having.",
+        "user": "Ken Blake, PhD Media & Communications"
+      }
+    ]
+  }
+}
