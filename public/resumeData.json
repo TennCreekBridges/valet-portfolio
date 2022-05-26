@@ -159,6 +159,10 @@
         "url": "https://horrorscopes2.herokuapp.com/"
       },
       {
+        "title": "Yo Quiero Throwdown",
+        "category": "Final MERN full-stack Group Project featuring HTML, CSS, JavaScript, BCrypt, TailwindCSS, Express, React, Node, Mongoose & Apollo. I managed front-end development, including overall stylistic direction and generation of mini-graphical elements."
+      },
+      {
         "title": "Code Quiz",
         "category": "Simple, JavaScript-driven code quiz with timer and high scores. Features Bootstrap, jQuery, HTML, CSS & JavaScript.",
         "image": "js-code-quiz.jpg",
