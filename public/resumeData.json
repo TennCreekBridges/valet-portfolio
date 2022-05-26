@@ -148,19 +148,19 @@
     "projects": [
       {
         "title": "Can I Haz Yod'ad Jokes",
-        "category": "Group Project featuring HTML, CSS, JavaScript, jQuery, Bootstrap, FontAwesome & Google Fonts, featuring random dad jokes pulled from an API and fed into a Yoda translator API. I managed front-end development, including stylistic choices and generation of graphics.",
+        "category": "Group Project featuring random dad jokes pulled from an API and fed into a Yoda translator API. I managed front-end development, including stylistic choices and generation of graphics.",
         "image": "yodad.jpg",
         "url": "https://tenncreekbridges.github.io/API-Mash-Project/"
       },
       {
         "title": "Horrorscopes",
-        "category": "Project featuring HTML, CSS, Bootstrap, FlexBox, BCrypt, Sequelize, Dotenv, Express, Handlebars, Express-Session & MYSQL2. Front to back, this project was mine, with help from a member who wasn't in our official group. Non-traditional twist on a traditional horoscope reading.",
+        "category": "Front to back, this 'group' project was mine, with help from a member who wasn't in our official group. Non-traditional twist on a traditional horoscope reading.",
         "image": "horrorscopes.jpg",
         "url": "https://horrorscopes2.herokuapp.com/"
       },
       {
         "title": "Yo Quiero Throwdown",
-        "category": "Final MERN full-stack Group Project featuring HTML, CSS, JavaScript, BCrypt, TailwindCSS, Express, React, Node, Mongoose & Apollo. I managed front-end development, including overall stylistic direction and generation of mini-graphical elements.",
+        "category": "Final MERN full-stack Group Project. I managed front-end development, including overall stylistic direction and generation of mini-graphical elements.",
         "image": "taco-bell.jpg",
         "url": "https://taco-bell-throwdownn.herokuapp.com/"
       },
