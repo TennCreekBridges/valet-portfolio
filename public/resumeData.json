@@ -160,7 +160,9 @@
       },
       {
         "title": "Yo Quiero Throwdown",
-        "category": "Final MERN full-stack Group Project featuring HTML, CSS, JavaScript, BCrypt, TailwindCSS, Express, React, Node, Mongoose & Apollo. I managed front-end development, including overall stylistic direction and generation of mini-graphical elements."
+        "category": "Final MERN full-stack Group Project featuring HTML, CSS, JavaScript, BCrypt, TailwindCSS, Express, React, Node, Mongoose & Apollo. I managed front-end development, including overall stylistic direction and generation of mini-graphical elements.",
+        "image": "taco-bell.jpg",
+        "url": "https://taco-bell-throwdownn.herokuapp.com/"
       },
       {
         "title": "Code Quiz",
